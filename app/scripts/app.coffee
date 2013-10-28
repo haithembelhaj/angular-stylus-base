@@ -1,6 +1,6 @@
 'use strict'
 
-angular.module('richardaApp', [])
+angular.module('app', [])
   .config ($routeProvider) ->
     $routeProvider
       .when '/',
